@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831925294292",
+    "project_id": "schoolgram-bfb73",
+    "storage_bucket": "schoolgram-bfb73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831925294292:android:8dfe34774909ca2fed5741",
+        "android_client_info": {
+          "package_name": "com.example.norq_ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831925294292-liis0s1cnohm2g1q1rpak805ck38au3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCqydFcc8udNHbcDKkzKY_NCJinCQ3KnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831925294292-liis0s1cnohm2g1q1rpak805ck38au3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
